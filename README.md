@@ -1,3 +1,3 @@
 # BClub_SP_2022
 
-Submit you Hackthon codes here
+Submit your Jupyter/Colab code files here
